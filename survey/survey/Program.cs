@@ -45,7 +45,7 @@ namespace survey
             b = int.Parse(Console.ReadLine());
             if (b == 7)
                 Console.WriteLine("That is correct");
-            else Console.WriteLine("The correct answer is 7");
+            else Console.WriteLine("That is incorrect. The correct answer is 7");
 
 
 
